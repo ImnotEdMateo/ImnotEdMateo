@@ -1,1 +1,1 @@
-# HI
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/{{Imnot_EdMateo}}/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
